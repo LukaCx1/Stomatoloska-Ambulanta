@@ -1,0 +1,27 @@
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.exe
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.deps.json
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.runtimeconfig.json
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.pdb
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska_ambulanta_demo_1.Form1.resources
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska_ambulanta_demo_1.Properties.Resources.resources
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.AssemblyInfoInputs.cache
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.AssemblyInfo.cs
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.sourcelink.json
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\refint\Stomatoloska ambulanta demo 1.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.pdb
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.genruntimeconfig.cache
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\ref\Stomatoloska ambulanta demo 1.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska_ambulanta_demo_1.Form2.resources
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Luka\source\repos\Stomatoloska ambulanta demo 1\Stomatoloska ambulanta demo 1\obj\Debug\net8.0-windows\Stomatoloska ambulanta demo 1.csproj.CopyComplete
